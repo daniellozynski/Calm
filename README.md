@@ -7,6 +7,6 @@ Curl Script Example for getting Data in JSON format from the HP ALM Rest API (12
 
 sh calm
 
-3. Find more informations about the API here:
+Find more informations about the API here:
 
 http://alm-help.saas.hpe.com/en/12.53/api_refs/REST_TECH_PREVIEW/ALM_REST_API_TP.html
